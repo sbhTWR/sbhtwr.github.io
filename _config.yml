@@ -273,9 +273,9 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 scholar:
 
   last_name: [Tiwari]
-  first_name: [Shubham]
+  first_name: [Shubham, S.]
 
-  style: apa
+  style: acm-sig-proceedings-long-author-list
   locale: en
 
   source: /_bibliography/
