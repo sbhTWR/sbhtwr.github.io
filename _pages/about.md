@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student at University of Washington | prev: Microsoft Research India
+subtitle: "PhD student at University of Washington | prev: Microsoft Research India"
 
 profile:
   align: right
