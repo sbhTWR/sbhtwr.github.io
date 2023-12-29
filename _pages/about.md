@@ -18,4 +18,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a CS PhD student at University of Washington advised by [Simon Peter](https://homes.cs.washington.edu/~simpeter/) and [Ratul Mahajan](https://ratul.org). 
+I am a CS PhD student at University of Washington, where I am advised by [Simon Peter](https://homes.cs.washington.edu/~simpeter/) and [Ratul Mahajan](https://ratul.org). 
+
+Previously, I spent 2.5 years at Microosft Research India, where I worked with [Venkat Padmanabhan](https://www.microsoft.com/en-us/research/people/padmanab/), [Debopam Bhattacherjee](https://bdebopam.github.io), and [Nagarajan Natarajan](https://www.microsoft.com/en-us/research/people/nagarajn/) on a bunch of problems related to congestion control, low-earth orbit (LEO) satellite networks, and network measurement. 
+
+Even before that, I interned at VMware, where I collaborated with the kernel team to implement memory-management optimization [technqiues](https://research.vmware.com/projects/mitosis-transparently-self-replicating-page-tables) in VMware's core virtualization product - [ESXi](https://www.vmware.com/products/esxi-and-esx.html).
+
+I am broadly interested in Systems and Networking. Recently, I have been looking into how to make Service-Meshes efficient and keen to explore ML from a Systems perspective (Systems for ML).
+
+To know more about me, please download my cv [here](http://sbhtwr.github.io/assets/pdf/shubham_tiwari_cv.pdf). 
