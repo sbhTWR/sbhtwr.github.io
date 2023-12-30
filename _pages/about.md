@@ -6,7 +6,7 @@ subtitle: "PhD student at University of Washington | prev: Microsoft Research In
 
 profile:
   align: right
-  image: shubham_pic_suited.png
+  image: shubham_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>@ Systems Lab, UW</p>
