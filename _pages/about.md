@@ -26,6 +26,6 @@ While at Microsoft Research, I made significant contributions to build [LEOScope
 
 Even before that, I interned at VMware, where I collaborated with the kernel team to implement memory-management optimization [technqiues](https://research.vmware.com/projects/mitosis-transparently-self-replicating-page-tables) in VMware's core virtualization product - [ESXi](https://www.vmware.com/products/esxi-and-esx.html). I graduated with a B.E. in Computer Science and Mathematics from [BITS Pilani](https://www.bits-pilani.ac.in/pilani/). 
 
-I am broadly interested in Systems and Networking. Recently, I have been looking into how to make Service-Meshes efficient and keen to explore ML from a Systems perspective (Systems for ML).
+I am broadly interested in Systems. Recently, I have been looking into improving the performance of model serving in context of [Compund AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/). 
 
 To know more about me, please download my cv [here](http://sbhtwr.github.io/assets/pdf/shubham_tiwari_cv.pdf). 
